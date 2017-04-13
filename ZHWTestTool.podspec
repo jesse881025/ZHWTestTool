@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
 
-  s.source       = { :git => "https://github.com/jesse881025/ZHWTestTool.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/jesse881025/ZHWTestTool.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
