@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZHWTestTool"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "练习制作cocoapods"
   s.description  = <<-DESC
                     制作自己的cocoapods , 第一次练习，制作自己的cocoapods , 第一次练习
